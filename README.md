@@ -92,7 +92,7 @@
         </tr>
         <td> Word</td>
         <td> 95</td>
-        <td> B</td>
+        <td> A+</td>
         <td> Computer</td>
         <tr>
 
@@ -100,20 +100,20 @@
     </tr>
     <td> Excel</td>
     <td> 90</td>
-    <td> C</td>
+    <td> A</td>
     <td> Computer</td>
     <tr>
 
 </tr>
 <td> Powerpoint</td>
 <td> 80</td>
-<td> A+</td>
+<td> B </td>
 <td> Computer</td>
 <tr>
 </tr>
 <td> Basic Security</td>
 <td> 85</td>
-<td> C</td>
+<td> B+</td>
 <td> Computer</td>
 <tr>
 
